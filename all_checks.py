@@ -31,7 +31,6 @@ def main():
         if check():
             print(msg)
             sys.exit(1)
-
     print("Everything ok.")
     sys.exit(0)
 
